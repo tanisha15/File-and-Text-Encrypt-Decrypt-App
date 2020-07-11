@@ -19,4 +19,4 @@ Based on the simple Caeser Cipher algorithm which involves replacing the letters
 * The file to be uploaded should be in `txt` format.
 
 ## Contributors:
- @Tanisha Rakshit
+ Tanisha Rakshit
